@@ -1,0 +1,53 @@
+state_abr,state,party,shot_pct,shots_given,over_under
+AK,Alaska,Republican,62.2,343224,Under
+AL,Alabama,Republican,50.3,1919868,Under
+AR,Arkansas,Republican,53.1,1229950,Under
+AZ,Arizona,Democrat,62.4,3519826,Under
+CA,California,Democrat,75.1,22995610,Over
+CO,Colorado,Democrat,70,3150724,Over
+CT,Connecticut,Democrat,79.4,2254481,Over
+DC,District of Columbia,Democrat,72.9,421045,Over
+DE,Delaware,Democrat,70.4,542066,Over
+FL,Florida,Republican,65.1,11222294,Under
+GA,Georgia,Democrat,54.6,4433282,Under
+HI,Hawaii,Democrat,83.7,933715,Over
+IA,Iowa,Republican,64,1554014,Under
+ID,Idaho,Republican,53,709948,Under
+IL,Illinois,Democrat,72.2,7111206,Over
+IN,Indiana,Republican,56.7,2925902,Under
+KS,Kansas,Republican,62.4,1380094,Under
+KY,Kentucky,Republican,61.6,2134594,Under
+LA,Louisiana,Republican,49.2,1752309,Under
+MA,Massachusetts,Democrat,82.5,4570278,Over
+MD,Maryland,Democrat,75.1,3537206,Over
+ME,Maine,Democrat,77.8,852459,Over
+MI,Michigan,Democrat,62.6,4911942,Under
+MN,Minnesota,Democrat,70.2,3042810,Over
+MO,Missouri,Republican,56,2671765,Under
+MS,Mississippi,Republican,46.3,1054777,Under
+MT,Montana,Republican,58.6,492626,Under
+NC,North Carolina,Republican,59.7,4891084,Under
+ND,North Dakota,Republican,55.8,324421,Under
+NE,Nebraska,Republican,65.3,952617,Under
+NH,New Hampshire,Democrat,73.6,812355,Over
+NJ,New Jersey,Democrat,76.5,5311000,Over
+NM,New Mexico,Democrat,77,1248884,Over
+NV,Nevada,Democrat,62,1480334,Under
+NY,New York,Democrat,72.6,11205423,Over
+OH,Ohio,Republican,59.4,5415572,Under
+OK,Oklahoma,Republican,57.2,1719791,Under
+OR,Oregon,Democrat,70.1,2350483,Over
+PA,Pennsylvania,Democrat,75.8,7703495,Over
+RI,Rhode Island,Democrat,76.1,650764,Over
+SC,South Carolina,Republican,54.8,2212673,Under
+SD,South Dakota,Republican,64.3,429558,Under
+TN,Tennessee,Republican,52.8,2809597,Under
+TX,Texas,Republican,61.6,13309151,Under
+UT,Utah,Republican,64.4,1463897,Under
+VA,Virginia,Democrat,71.3,4758161,Over
+VT,Vermont,Democrat,85.4,435704,Over
+WA,Washington,Democrat,74.6,4439641,Over
+WI,Wisconsin,Democrat,65.7,2991563,Under
+WV,West Virginia,Republican,52.5,751743,Under
+WY,Wyoming,Republican,50.2,223359,Under
+US,United States,Democrat,67.1,173194895,NA
